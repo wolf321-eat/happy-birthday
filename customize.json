@@ -2,7 +2,7 @@
   "greeting": "嗨",
   "name": "怡凝",
   "greetingText": "马上要过21岁生日啦",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "wishText": "准备好了吗？：)",
   "imagePath": "img/lydia2.png",
   "text1": "今天是你的生日！",
   "textInChatBox": "生日快乐!祝你开心度过每一天！",
@@ -18,6 +18,6 @@
   "bigTextPart2": "后",
   "wishHeading": "21岁生日快乐！",
   "outroText": "希望你健康、幸福、事事顺利",
-  "replayText": "如果你想再看一遍可以返回",
+  "replayText": "希望我们友谊长久",
   "outroSmiley": ":)"
 }
